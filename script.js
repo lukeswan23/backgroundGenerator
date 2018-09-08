@@ -35,3 +35,7 @@ color1.addEventListener("input", colorChange);
 color2.addEventListener("input", colorChange);
 
 random.addEventListener("click", randomGradient);
+
+//todo refactor body.style.background method so it's not repeated performing almost the same function.
+
+
